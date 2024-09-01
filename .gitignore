@@ -1,0 +1,12 @@
+**/__pycache__/
+data/
+flink_env_311/
+scripts/
+
+jars/*
+!jars/
+!jars/.gitkeep
+
+*.log
+.env
+.git/
